@@ -1,13 +1,13 @@
-#Sass Starter Pack
+# Sass Starter Pack
 This project was a follow-along from Traversy Media's YouTube channel (@bradtraversy). It is a boiler plate template for developing with Sass. It uses Gulp and BrowserSync to automate the process so you can focus on coding rather than compiling and refreshing your browser...this does it for you
 
-#Module versions used for this project:
+#M odule versions used for this project:
 
-*gulp 3.9.1
-*gulp-sass 3.1.0
-\*browser-sync 2.18.13
+* gulp 3.9.1
+* gulp-sass 3.1.0
+* browser-sync 2.18.13
 
-#Important note
+# Important note
 I ran into an issue when trying to start gulp. I was getting an error pointing to the watch and serve task in gulpfile.js:
 
 `AssertionError: Task function must be specified`
